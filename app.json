@@ -1,0 +1,25 @@
+{
+  "api": 4,
+  "id": "scratch-issues",
+  "name": "Scratch Issues",
+  "version": "1.0.0",
+  "description": "Counts the open issues of a GitHub repository for your apps.",
+  "icon": "icon.svg",
+  "license": "MIT",
+  "payment": "free",
+  "author": "T-R3x3r",
+  "categories": [
+    "coding"
+  ],
+  "environment": {
+    "kind": "process",
+    "network": [
+      "api.github.com"
+    ]
+  },
+  "mcp": [
+    {
+      "entry": "server.mjs"
+    }
+  ]
+}

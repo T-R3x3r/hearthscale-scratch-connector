@@ -2,7 +2,7 @@
   "api": 4,
   "id": "scratch-issues",
   "name": "Scratch Issues",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Counts the open issues of a GitHub repository for your apps.",
   "icon": "icon.svg",
   "license": "MIT",
